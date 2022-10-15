@@ -1,0 +1,2 @@
+Once inside, use vscode to create a ".md" file that gives a brief explanation of why you chose this data set and lists out at least 10 questions about the dataset you hope to answer through your analysis. Once complete, commit your work to your github repository and submit your assignment on replit!
+I Chose this data set because mental health 
